@@ -1,4 +1,4 @@
-# Hamster-Coin-autoclicker-v4
+# Hamster-Coin-autoclicker-v5
 
 ![5ac00e0f74b98f08](https://github.com/strongestchich/Hamster-Coin-autoclicker-v4/assets/173388031/d15fee96-a030-4e7b-8ce0-71e202608a27)
 
